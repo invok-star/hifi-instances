@@ -9,7 +9,8 @@
         "https://frankfurt.monochrome.tf",
         "https://london.monochrome.tf",
         "https://singapore.monochrome.tf",
-        "https://jakarta.monochrome.tf"
+        "https://jakarta.monochrome.tf",
+        "https://arran.monochrome.tf"
       ],
       "cors": false
     },
@@ -37,7 +38,20 @@
     },
     "kinoplus": {
       "urls": [
-        "https://tidal.kinoplus.online/"
+        "https://tidal.kinoplus.online"
+      ],
+      "cors": false
+    },
+    "binimum": {
+      "urls": [
+        "https://tidal-api.binimum.org"
+      ],
+      "cors": false
+    },
+    "spotisaver": {
+      "urls": [
+        "https://hifi-one.spotisaver.net",
+        "https://hifi-two.spotisaver.net"
       ],
       "cors": false
     }
